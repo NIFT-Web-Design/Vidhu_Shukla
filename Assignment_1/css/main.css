@@ -5,36 +5,44 @@ font-weight: 350;
 
 header{
   background-color: #2a2a2a;
-padding: 11px 10px;
+padding: -18px 0px 30px;
 }
 header div {
   margin: 0 auto;
 }
+
+#logo {float: left;
+    margin-top: 18px;
+    margin-left: 25px;
+}
+
 div nav {
   display: flex;
   flex-flow: row;
   align-items: center;
-  padding: 0px 95px;
-  padding-left: 615px;
+  padding: 35px 5px;
+  padding-left: 179px;
   padding bottom: 65px;
   margin: 0 auto;
 }
 
 nav a{
-  color: white;
-  font-weight: 700;
+  color: #d4d4d4;
+  font-weight: bold;
+  font-size: 12px;
   text-decoration: none;
-  padding: 9px;
+  padding: 7px;
   float: left;
-
 }
+
+#orange {
+  color: orange;
+}
+
 #bluBox {
   background-color: #107698;
     padding: 7px 15px 6px;
     border-radius: 2px;
-}
-#orange {
-  color: orange
 }
 
 body{
@@ -315,7 +323,7 @@ span{
 }
 
 #trustedBy img{
-    padding: 35px 350px;
+    padding: 35px 122px;
 }
 
 footer{
