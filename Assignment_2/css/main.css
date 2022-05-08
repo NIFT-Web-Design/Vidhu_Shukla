@@ -1,0 +1,55 @@
+.flexContainer{
+  display: flex;
+  padding-top: 50pt;
+  padding-right:180pt;
+}
+
+h1{
+  font-family: ff1;
+  font-style: normal;
+  font-size: 35pt;
+font-weight: bold;
+padding-top: -20pt;
+padding-left: 120pt;
+}
+
+P{
+  font-family: ff2;
+  padding-left: 120pt;
+  padding-top: -40pt;
+  font-weight: normal;
+  text-align: justify;
+}
+
+
+h3{
+  font-family: ff3;
+    line-height: 1.005371;
+    font-style: normal;
+    font-weight: bold;
+    visibility: visible;
+    padding-left: 120pt;
+    padding-top: -15pt;
+    font-size: 10pt;
+}
+
+h4{
+  padding-left: 120pt;
+  padding-top: 4pt;
+  font-weight: bold;
+
+}
+
+span{
+  padding-top: 20pt;
+  font-weight: normal;
+}
+
+#upper{
+  padding-top: -20pt;
+}
+
+.rightSide{
+  padding-top: 75pt;
+
+}
